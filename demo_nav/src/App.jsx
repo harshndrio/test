@@ -10,6 +10,7 @@ function App() {
   return (
     <>
      <Navbar></Navbar>
+     <h1>This is First Page</h1>
     </>
   )
 }
