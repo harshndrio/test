@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
+      <h1>Addition Done Navbar</h1>
     </>
   )
 }
